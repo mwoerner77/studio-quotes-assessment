@@ -1,0 +1,274 @@
+[
+  {
+    "Id": "7711cd41-7a19-4ea5-872b-5727b42676d8",
+    "Text": "The only true wisdom is knowing you know nothing.",
+    "Author": "Socrates",
+    "CreatedDate": "2023-04-18T00:00:00-07:00"
+  },
+  {
+    "Id": "e56874c9-63e0-489f-aa66-4e630307937d",
+    "Text": "I am Iron Man.",
+    "Author": "Tony Stark",
+    "CreatedDate": "2023-04-17T00:00:00-07:00"
+  },
+  {
+    "Id": "9c9921fc-f681-4128-9b2c-6ed9ac1fb727",
+    "Text": "The purpose of life, is to give life purpose",
+    "Author": "Unknown",
+    "CreatedDate": "2021-09-07T00:00:00-07:00"
+  },
+  {
+    "Id": "6184bf85-e016-412e-a608-b4076a835c9e",
+    "Text": "The only important statistic is the final score.",
+    "Author": "Bill Russell",
+    "CreatedDate": "2021-09-07T00:00:00-07:00"
+  },
+  {
+    "Id": "bc1512ab-e542-49c6-88cd-3689329341d6",
+    "Text": "Be careful ⚠️ that fake love be feeling real too",
+    "Author": "NBA Youngboy",
+    "CreatedDate": "2023-01-24T00:00:00-07:00"
+  },
+  {
+    "Id": "1ec7fb84-1df6-4efd-9855-669db8f6ffcc",
+    "Text": "Huh?",
+    "Author": "Vincent Allen",
+    "CreatedDate": "2021-10-22T00:00:00-08:45"
+  },
+  {
+    "Id": "ce3b54ce-1ae6-48de-b3a9-88a9b44a9b2d",
+    "Text": "I am the best software developer!!!!!",
+    "Author": "Yanqi Qiu",
+    "CreatedDate": "2023-01-26T00:00:00-08:45"
+  },
+  {
+    "Id": "0bc56d59-41ac-4bcd-93b6-7c112dcba03a",
+    "Text": "Treat her like a queen and you shall be left on seen.",
+    "Author": "Future",
+    "CreatedDate": "2022-10-19T00:00:00-07:00"
+  },
+  {
+    "Id": "8d4beb47-40b5-4884-98eb-39ee85e98552",
+    "Text": "Ha Ha.",
+    "Author": "Nelson Muntz",
+    "CreatedDate": "2021-08-27T00:00:00-07:00"
+  },
+  {
+    "Id": "9c021c24-925e-4d1a-ada7-3db7298f0bc9",
+    "Text": "But man is not made for defeat. A man can be destroyed but not defeated.",
+    "Author": "Ernest Hemingway",
+    "CreatedDate": "2021-09-07T00:00:00-07:00"
+  },
+  {
+    "Id": "7a0fad07-7b68-45f1-80dd-a69dd9b9e6b0",
+    "Text": "Ripe tomatoes",
+    "Author": "socha",
+    "CreatedDate": "2021-08-27T00:00:00-07:00"
+  },
+  {
+    "Id": "896ecfa1-33ba-4264-9241-bd2086eb3a6a",
+    "Text": "Plan for what it is difficult while it is easy, do what is great while it is small.",
+    "Author": "Sun Tzu",
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
+  },
+  {
+    "Id": "34cf2f33-f9fb-4b95-b078-800343a0cd03",
+    "Text": "Be yourself; everyone else is already taken.",
+    "Author": "Oscar Wilde",
+    "CreatedDate": "2021-09-02T00:00:00-07:00"
+  },
+  {
+    "Id": "1c9da8d8-5b76-47c3-8c70-b9b3bdb106ee",
+    "Text": "One should always eat muffins quite calmly. It is the only way to eat them.",
+    "Author": "Oscar Wilde",
+    "CreatedDate": "2021-09-02T00:00:00-07:00"
+  },
+  {
+    "Id":"ae9afcfc-f45b-4636-b3d3-43c5afc0c01b",
+    "Text":"Now I am become Death, the destroyer of worlds",
+    "Author":"Robert Oppenheimer",
+    "CreatedDate":"2022-06-18T00:00:00-07:00"
+  },
+  {
+    "Id": "08033ac6-94c3-4e46-a5eb-cf4ac71824e4",
+    "Text": "In the midst of chaos, there is also opportunity.",
+    "Author": "Sun Tzu",
+    "CreatedDate": "2022-10-20T00:00:00-07:00"
+  },
+  {
+    "Id": "3298ac87-d9f6-4128-a8a3-7e6021a9f369",
+    "Text": "Osmanthus Wine tastes the same as I remember, but where are those who share the memory?",
+    "Author": "Zhongli",
+    "CreatedDate": "2021-09-02T00:00:00-07:00"
+  },
+  {
+    "Id": "0891349b-90dd-48d5-908f-bf3face1ab10",
+    "Text": "This is it. This is your story. It all begins here.",
+    "Author": "Auron",
+    "CreatedDate": "2022-10-13T00:00:00-08:31"
+  },
+  {
+    "Id": "92dbc310-e67c-4b2c-862f-d975e85a4dfd",
+    "Text": "Clothes make the man. Naked people have little or no influence on society.",
+    "Author": "Mark Twain",
+    "CreatedDate": "2022-10-15T00:00:00-07:00"
+  },
+  {
+    "Id": "c4df3e6d-7f8b-4631-a8f5-9b706d379fc7",
+    "Text": "Many receive advice, only the wise profit from it.",
+    "Author": "Harper Lee",
+    "CreatedDate": "2022-09-16T00:00:00-07:00"
+  },
+  {
+    "Id": "53ff0d0f-562b-443b-a751-c2a4a63873ab",
+    "Text": "This too shall pass.",
+    "Author": "Leavelle",
+    "CreatedDate": "2021-09-07T00:00:00-07:00"
+  },
+  {
+    "Id": "f472451e-3910-4492-b1e0-8f86c07eee35",
+    "Text": "A ship in port is safe, but that's not what ships are built for.",
+    "Author": "Grace Hopper",
+    "CreatedDate": "2022-10-18T00:00:00-07:00"
+  },
+  {
+    "Id": "24e3279d-292a-401c-8007-5e660f1742bc",
+    "Text": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+    "Author": "Arnold Schwarzenegger",
+    "CreatedDate": "2022-09-16T00:00:00-07:00"
+  },
+  {
+    "Id": "92f55faf-9757-4e80-8ba1-2144e8e4ae82",
+    "Text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "Author": "Helen Keller",
+    "CreatedDate": "2022-10-19T00:00:00-07:00"
+  },
+  {
+    "Id": "0fd83908-b5c8-4ce1-a42f-d6689b2507be",
+    "Text": "I love chocolate cake",
+    "Author": "Gabriel Iglesias",
+    "CreatedDate": "2022-10-24T00:00:00-07:00"
+  },{
+    "Id": "8fb44472-a93f-4f1f-bc7e-e48884c7caa6",
+    "Text": "It is during our darkest moments that we must focus to see the light.",
+    "Author": "Aristotle",
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
+  },
+  {
+    "Id": "9a498727-fe70-4574-8e4f-f8bd6d02a194",
+    "Text": "The thing with high-tech is that you always end up using scissors.",
+    "Author": "David Hockney",
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
+  },
+  {
+    "Id": "638f3f2a-3755-4904-8479-d7b551894074",
+    "Text": "Life is the art of drawing without an eraser.",
+    "Author": "John W. Gardner",
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
+  },
+  {
+    "Id": "066b9256-023a-4f9b-bdaf-dd3bfa25ed9f",
+    "Text": "I am looking forward to learning about software engineering this quarter!",
+    "Author": "David Tkach",
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
+  },
+  {
+    "Id": "4336f007-9a2c-4282-b151-693582d3f1a3",
+    "Text": "Whoever is happy will make others happy too.",
+    "Author": "Anne Frank",
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
+  },
+
+  {
+    "Id": "1a55da74-0279-45f5-ad0f-48f3bc3ce5fa",
+    "Text": "All our dreams can come true, if we have the courage to pursue them.",
+    "Author": "Walt Disney",
+    "CreatedDate": "2021-09-07T00:00:00-07:00"
+  },
+
+  {
+    "Id": "702498cf-e7fd-40a3-a588-d72299863de8",
+    "Text": "There is nothing impossible to they who will try.",
+    "Author": "Alexander the Great",
+    "CreatedDate":"2022-10-23T00:00:00-07:00"
+  },
+  {
+    "Id": "0acbd32a-c257-412e-a72d-7b56127ab4be",
+    "Text": "Brave men rejoice in adversity, just as brave soldiers triumph in war.",
+    "Author": "A Soldier",
+    "CreatedDate": "2021-09-07T00:00:00-07:00"
+  },
+  {
+    "Id": "ede30102-ad60-4417-b10f-e4cdcc63933c",
+    "Text": "You're only human. You don't have to have it together every minute of every day.",
+    "Author": "Anne Hathaway",
+    "CreatedDate": "2023-01-22T06:09:00-08:00"
+  },
+  {
+    "Id": "19a75a79-e115-403a-a1ac-1433e07ee879",
+    "Text": "Any fool can criticize, condemn and complain—and most do.",
+    "Author": "Dale Carnegie",
+    "CreatedDate": "2023-01-22T00:00:00-07:00"
+  },
+  {
+    "Id": "1acbd32a-c257-412e-a72d-48de127ab4be",
+    "Text": "Never to suffer would never to have been blessed.",
+    "Author": "Edgar Allen Poe",
+    "CreatedDate": "2023-01-23T00:00:00-10:00"
+  },
+  {
+    "Id": "206bae0b-ca20-408f-a2bb-2655fe4b8525",
+    "Text": "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.",
+    "Author": "Sherlock Holmes",
+    "CreatedDate": "2023-01-26T15:39:00-08:00"
+  },
+  {
+    "Id": "cd24e9f0-4b4e-4a77-99e7-846bbc5e4e42",
+    "Text": "Doors are for people with no imagination.",
+    "Author": "Derek Landy",
+    "CreatedDate": "2023-01-20T00:00:00-07:00"
+  },
+  {
+    "Id": "1acbd32b-c257-412e-a72d-48de127ab4bf",
+    "Text": "Some people don't like change, but you need to embrace change if the alternative is disaster.",
+    "Author": "Elon Musk",
+    "CreatedDate": "2023-01-23T00:00:00-10:00"
+  },
+  {
+    "Id": "4171af6f-1efa-49b6-808b-f7794b6622ea",
+    "Text": "If you are the person you really want to be in the picture, you are an embodiment of the picture.",
+    "Author": "Inspirobot",
+    "CreatedDate": "2023-04-21T00:00:00-10:00"
+  },
+  {
+    "Id": "a23f523c-06d4-4675-bb6e-8c340e0aed46",
+    "Text": "The more difficult the victory, the greater the happiness in winning.",
+    "Author": "Pele",
+    "CreatedDate": "2023-04-18T00:00:00-09:00"
+  },
+  {
+    "Id": "aaf5edf7-4b64-48ed-b780-8841ac825efa",
+    "Text": "Be led by your dreams not by your problems.",
+    "Author": "Roy Williams",
+    "CreatedDate": "2023-04-20T00:00:00-11:00"
+  },
+  {
+    "Id": "702b006d-c3d5-408a-9a27-552a5b86b78d",
+    "Text": "To give anything less than your best, is to sacrifice the gift.",
+    "Author": "Steve Prefontaine",
+    "CreatedDate": "2023-04-17T00:00:00-13:00"
+  },
+  {
+    "Id": "b491d736-80bf-41b2-866c-87c727651de6",
+    "Text": "Do. Or do not. There is no try.",
+    "Author": "Yoda",
+    "CreatedDate": "2021-08-27T00:00:00-07:00"
+
+  },
+  {
+    "Id": "22c08f16-3dae-4c6b-927d-8c940b1b437a",
+    "Text": "Destiny is a funny thing. You never know how things are going to work out. But if you keep an open mind and an open heart, I promise you will find your own destiny someday.",
+    "Author": "Uncle Iroh",
+    "CreatedDate": "2023-04-17T00:00:00-13:00"
+  }
+]
