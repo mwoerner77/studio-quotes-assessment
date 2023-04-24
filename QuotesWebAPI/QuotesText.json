@@ -72,6 +72,12 @@
     "CreatedDate": "2022-10-23T00:00:00-07:00"
   },
   {
+    "Id": "e513c4fc-491f-4081-ab57-bc4c05f0b4f3",
+    "Text": "Plan for what it is difficult while it is easy, do what is great while it is small.",
+    "Author": "",
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
+  },
+  {
     "Id": "34cf2f33-f9fb-4b95-b078-800343a0cd03",
     "Text": "Be yourself; everyone else is already taken.",
     "Author": "Oscar Wilde",
@@ -84,10 +90,10 @@
     "CreatedDate": "2021-09-02T00:00:00-07:00"
   },
   {
-    "Id":"ae9afcfc-f45b-4636-b3d3-43c5afc0c01b",
-    "Text":"Now I am become Death, the destroyer of worlds",
-    "Author":"Robert Oppenheimer",
-    "CreatedDate":"2022-06-18T00:00:00-07:00"
+    "Id": "ae9afcfc-f45b-4636-b3d3-43c5afc0c01b",
+    "Text": "Now I am become Death, the destroyer of worlds",
+    "Author": "Robert Oppenheimer",
+    "CreatedDate": "2022-06-18T00:00:00-07:00"
   },
   {
     "Id": "08033ac6-94c3-4e46-a5eb-cf4ac71824e4",
@@ -148,7 +154,8 @@
     "Text": "I love chocolate cake",
     "Author": "Gabriel Iglesias",
     "CreatedDate": "2022-10-24T00:00:00-07:00"
-  },{
+  },
+  {
     "Id": "8fb44472-a93f-4f1f-bc7e-e48884c7caa6",
     "Text": "It is during our darkest moments that we must focus to see the light.",
     "Author": "Aristotle",
@@ -190,7 +197,7 @@
     "Id": "702498cf-e7fd-40a3-a588-d72299863de8",
     "Text": "There is nothing impossible to they who will try.",
     "Author": "Alexander the Great",
-    "CreatedDate":"2022-10-23T00:00:00-07:00"
+    "CreatedDate": "2022-10-23T00:00:00-07:00"
   },
   {
     "Id": "0acbd32a-c257-412e-a72d-7b56127ab4be",

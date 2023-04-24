@@ -11,11 +11,11 @@ namespace QuotesTest
     public class QuotesLibraryTest
     {
         [Fact]
-        public void QuotesLibrary_GetByID_TEST()
-        { 
+        public void QuotesLibrary_Fail_TEST_0()
+        {
             // Test Setup
-            Guid testId = new Guid("8d4beb47-40b5-4884-98eb-39ee85e98552");
-            string author = "Nelson Muntz";
+            Guid testId = new Guid("e513c4fc-491f-4081-ab57-bc4c05f0b4f3");
+            string author = "Sun Tzu";
 
             QuotesLibrary library = QuotesLibrary.Instance;
             Quote result = library.GetByID(testId);
@@ -27,7 +27,7 @@ namespace QuotesTest
 
         [Fact]
         public void QuotesLibrary_GetByIDNotFound_TEST()
-        { 
+        {
             // Test Setup
             Guid testId = new Guid("496035e2-9aad-4e3b-9d48-70bb55e99a16");     // Guid not used
 
@@ -39,7 +39,7 @@ namespace QuotesTest
 
         [Fact]
         public void QuotesLibrary_GetByAuthorSingle_TEST()
-        { 
+        {
             // Test Setup
             Guid testId = new Guid("8d4beb47-40b5-4884-98eb-39ee85e98552");
             string author = "Nelson Muntz";
@@ -56,7 +56,7 @@ namespace QuotesTest
 
         [Fact]
         public void QuotesLibrary_GetByAuthorMultiple_TEST()
-        { 
+        {
             // Test Setup
             string author = "Oscar Wilde";
 
@@ -70,7 +70,7 @@ namespace QuotesTest
 
         [Fact]
         public void QuotesLibrary_GetByAuthorNotFound_TEST()
-        { 
+        {
             // Test Setup
             string author = "I am not an author";
 
